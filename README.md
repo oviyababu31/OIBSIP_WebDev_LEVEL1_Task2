@@ -52,7 +52,6 @@ Technologies Used
 | -------------- | ------------------------------ |
 | HTML5          | Structure of the website       |
 | CSS3           | Styling, layout, animations    |
-| JavaScript     | Smooth interactions (optional) |
 
 Screenshots
 
