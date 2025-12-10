@@ -16,17 +16,17 @@ Custom gradient header
 
 Clean section layouts
 
-📱 Fully Responsive
+ Fully Responsive
 
 Optimized for mobile, tablet, and desktop screens.
 
-👤 Profile Section
+ Profile Section
 
 Circular profile image
 
 Role & interest tags
 
-📘 Sections Included
+ Sections Included
 
 About Me
 
@@ -42,7 +42,7 @@ Achievements
 
 Contact section with LinkedIn, GitHub, Resume
 
-🎯 Easy Navigation
+ Easy Navigation
 
 Sticky navbar with smooth scroll links.
 
